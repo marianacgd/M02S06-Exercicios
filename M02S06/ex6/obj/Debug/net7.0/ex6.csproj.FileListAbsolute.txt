@@ -1,0 +1,15 @@
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\ex6.csproj.AssemblyReference.cache
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\ex6.AssemblyInfoInputs.cache
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\ex6.AssemblyInfo.cs
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\ex6.csproj.CoreCompileInputs.cache
+C:\repositorios\devinhouse\M02\M02S06\ex6\bin\Debug\net7.0\ex6.exe
+C:\repositorios\devinhouse\M02\M02S06\ex6\bin\Debug\net7.0\ex6.deps.json
+C:\repositorios\devinhouse\M02\M02S06\ex6\bin\Debug\net7.0\ex6.runtimeconfig.json
+C:\repositorios\devinhouse\M02\M02S06\ex6\bin\Debug\net7.0\ex6.dll
+C:\repositorios\devinhouse\M02\M02S06\ex6\bin\Debug\net7.0\ex6.pdb
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\ex6.dll
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\refint\ex6.dll
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\ex6.pdb
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\ex6.genruntimeconfig.cache
+C:\repositorios\devinhouse\M02\M02S06\ex6\obj\Debug\net7.0\ref\ex6.dll
